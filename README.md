@@ -29,5 +29,5 @@ $ sudo setcap 'cap_net_bind_service=+ep' ./ssh-portfolio
 ### 4. Launch
 
 ```bash
-$ ./ssh-portfolio
+$ ./ssh-portfolio <PORT>
 ```
